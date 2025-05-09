@@ -8,7 +8,9 @@ Para executar qualquer um dos desafios, você precisa ter o Node.js instalado. E
 
 ```bash
 node desafioX.js
+```
 
+Substitua `X` pelo número do desafio que você deseja executar.
 ## Desafio 1: Cálculo da Soma
 Descrição: Calcular o valor final da variável SOMA após o processamento do algoritmo fornecido.
 
